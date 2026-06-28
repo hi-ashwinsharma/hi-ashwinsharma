@@ -18,12 +18,14 @@ An Android and Full-Stack Developer passionate about crafting clean, modern nati
 * **AI & Machine Learning:** Gemini API, Vertex AI, LLM Prompt Engineering
 * **Languages:** Kotlin, Java, TypeScript, JavaScript, Python, Bash
 
+<!--
 ---
 
 ### 📈 GitHub Stats
 
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-ashwinsharma&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-ashwinsharma&layout=compact&theme=transparent&hide_border=true)
+-->
 
 ---
 
